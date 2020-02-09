@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc56eb0c.chunk.css",
+    "main.js": "/static/js/main.60df504d.chunk.js",
+    "main.js.map": "/static/js/main.60df504d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.309dddf0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.309dddf0.js.map",
+    "static/js/2.f88fbfcb.chunk.js": "/static/js/2.f88fbfcb.chunk.js",
+    "static/js/2.f88fbfcb.chunk.js.map": "/static/js/2.f88fbfcb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7d028702fb60e02d379739d43536999.js": "/precache-manifest.e7d028702fb60e02d379739d43536999.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dc56eb0c.chunk.css.map": "/static/css/main.dc56eb0c.chunk.css.map",
+    "static/js/2.f88fbfcb.chunk.js.LICENSE.txt": "/static/js/2.f88fbfcb.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/DiGiTF_logo_Transparency.ad1d377b.png",
+    "static/media/design.jpeg": "/static/media/design.4fc7135c.jpeg",
+    "static/media/integration.jpeg": "/static/media/integration.d5cb381e.jpeg",
+    "static/media/wireframe.jpeg": "/static/media/wireframe.0f865e1d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.309dddf0.js",
+    "static/js/2.f88fbfcb.chunk.js",
+    "static/css/main.dc56eb0c.chunk.css",
+    "static/js/main.60df504d.chunk.js"
+  ]
+}
